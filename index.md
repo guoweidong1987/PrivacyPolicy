@@ -1,135 +1,135 @@
-A. 介绍
+A. Introduction
 
-我们非常重视并承诺保护网站访客的隐私。本政策详细阐述了我们对个人信息的处理方式。
-当您首次访问我们的网站时，如果您同意我们遵循本政策的条款使用cookie，则意味着此后您每次访问我们的网站时，都允许我们使用cookie。
+We take and are committed to protecting the privacy of our website visitors. This policy details how we handle personal information.
+When you first visit our website, if you agree to our use of cookies in accordance with the terms of this policy, it means that every time you visit our website thereafter, you allow us to use cookies.
 
-B. 版权说明
+B. Copyright Notice
 
-本文档基于SEQ Legal（seqlegal.com）的模板创建，
-由郭卫东修改完成。
+This document was created based on a template from SEQ Legal (seqlegal.com),
+Modified by Guo Weidong.
 
-C. 收集个人信息
+C. Collection of Personal Information
 
-以下类型的个人信息可能被收集、保存和使用：
+The following types of personal information may be collected, stored and used:
 
-有关您的计算机的信息，包括您的IP地址、地理位置、浏览器类型和版本以及操作系统；
-有关您访问和使用本网站的信息，包括流量来源、访问时间、页面浏览量和网站导航路径；
-在我们的网站上注册时填写的信息，例如您的电子邮箱地址；
-您在我们的网站上创建个人资料时填写的信息，例如您的姓名、个人资料图片、性别、生日、人际关系状况、兴趣和爱好、教育背景和工作信息；
-您在订阅我们的电子邮件和/或新闻资讯时填写的信息，例如您的姓名和电子邮箱地址；
-您在使用我们网站上的服务时填写的信息；
-您在使用我们的网站时生成的信息，包括您使用的时间、频率和环境；
-与您购买、使用服务或通过我们的网站进行的交易相关的信息，包括您的姓名、地址、电话号码、电子邮箱地址和信用卡信息；
-您在我们网站上发布的、意图发布到互联网上的信息，其中包括您的用户名、个人资料图片以及您发布的内容；
-您通过电子邮件或我们的网站与我们交流时所包含的信息，包括通信内容和元数据；
-您发送给我们的任何其他个人信息。
-在向我们披露其他人的个人信息之前，您必须根据本政策获得被披露方的许可，才能披露和使用被披露方的个人信息
+Information about your computer, including your IP address, geographic location, browser type and version, and operating system;
+Information about your access to and use of this website, including traffic sources, visit times, page views and website navigation paths;
+Information entered when registering on our website, such as your email address;
+Information you fill in when you create a profile on our website, such as your name, profile picture, gender, birthday, relationship status, interests and hobbies, educational background and job information;
+Information you fill in when you subscribe to our emails and/or newsletters, such as your name and email address;
+information you fill out when using the services on our website;
+Information generated when you use our website, including the timing, frequency and context of your use;
+Information related to your purchases, use of services or transactions through our website, including your name, address, telephone number, email address and credit card information;
+Information you post on our website that you intend to post on the Internet, including your username, profile picture and content you post;
+Information contained in your communications with us via email or our website, including the content of communications and metadata;
+any other personal information you send us.
+Before disclosing another person's personal information to us, you must obtain the disclosed party's permission in accordance with this policy to disclose and use the disclosed party's personal information
 
-D. 使用个人信息
+D. Use of Personal Information
 
-通过我们的网站提交的个人信息将用于本政策或网站相关页面所说明的用途。我们可能将您的个人信息用于以下用途：
+Personal information submitted through our website will be used for the purposes described in this policy or on the relevant pages of the website. We may use your personal information for the following purposes:
 
-管理我们的网站和业务；
-为您呈现个性化的网站；
-为您提供我们的网站服务；
-向您发送通过我们的网站购买的商品；
-向您提供通过我们的网站购买的服务；
-为您发送对帐单、发票和付款提醒，并向您收取付款；
-向您发送非营销用途的商业通讯；
-向您发送您指定的电子邮件通知；
-如果您已订阅，我们将向您发送我们的电子邮件资讯（如果您不再需要资讯邮件，可以随时告知我们；
-向您发送营销资讯，包括我们的业务信息和我们认为您可能感兴趣的第三方业务，通过消息或在您同意的情况下通过电子邮件或类似技术向您发送（如果您不再需要营销资讯，可以随时告知我们；
-向第三方提供有关我们用户的统计信息（但第三方无法从信息中识别任何个人用户；
-处理您在我们网站上的查询或投诉；
-确保我们的网站安全和防止欺诈；
-检查使用我们的网站是否符合条款和条件（包括监控通过我们的网站私人信息传送服务发送的私人消息；
-以及其他用途。
-如果您提交个人信息以在我们的网站上发布，我们将发布您的个人信息并根据您授予我们的许可用于其他用途。
+administer our website and business;
+to present a personalized website to you;
+To provide you with our website services;
+send you purchases made through our website;
+To provide you with services purchased through our website;
+send you statements, invoices and payment reminders and collect payments from you;
+send you commercial communications for non-marketing purposes;
+send you email notifications you specify;
+If you have subscribed, we will send you our e-mail newsletter (if you no longer need the newsletter, you can let us know at any time;
+To send you marketing communications, including information about our business and third-party businesses that we think may be of interest to you, by message or, with your consent, by email or similar technology (if you no longer need marketing communications, can inform us at any time;
+Provide statistical information about our users to third parties (but third parties cannot identify any individual user from the information;
+to deal with your enquiries or complaints on our website;
+keep our website secure and prevent fraud;
+Check compliance with the terms and conditions of use of our website (including monitoring private messages sent through our website private messaging service;
+and other uses.
+If you submit personal information for publication on our website, we will publish your personal information and use it for other purposes in accordance with the license you have granted us.
 
-您可以通过隐私设置限制您的信息在我们网站上的发布，并可使用网站上的隐私控制进行调整。
+You can restrict the publication of your information on our website through your privacy settings, which you can adjust using the privacy controls on the website.
 
-未经您的明确同意，我们不会将您的个人信息提供给任何第三方以供其或任何其他第三方用于直接营销。
+We will not provide your personal information to any third party for their or any other third party's use in direct marketing without your express consent.
 
-E. 披露个人信息
+E. Disclosure of Personal Information
 
-我们可能根据本政策中说明的用途，在合理必要的情况下，向我们的员工、管理人员、保险公司、专业顾问、代理商、供应商或分销商披露您的个人信息。
+We may disclose your personal information to our employees, officers, insurance companies, professional advisors, agents, suppliers or distributors as reasonably necessary for the purposes described in this policy.
 
-我们可能根据本政策中说明的用途，在合理必要的情况下，向我们集团的任何成员（这包括我们的子公司、最终控股公司及其所有子公司）披露您的个人信息。
+We may disclose your personal information to any member of our group (this includes our subsidiaries, ultimate holding company and all of its subsidiaries) as reasonably necessary for the purposes described in this policy.
 
-我们可能会在以下情况下披露您的个人信息：
+We may disclose your personal information in the following circumstances:
 
-在法律要求的范围内；
-与任何正在进行的或可能的法律程序有关时；
-为了获得、行使或保护我们的合法权利（包括为了防止欺诈和降低信用风险，向他人提供信息）；
-向我们的业务或资产买方（或潜在买方）提供个人信息；
-我们合理认为可能向法院或其他主管当局要求披露个人信息的任何相关方，并且法院或当局可能会要求披露个人信息。
-除非本政策另有规定，否则我们不会将您的个人信息提供给第三方。
+to the extent required by law;
+in connection with any ongoing or potential legal proceedings;
+To obtain, exercise or protect our legal rights (including to provide information to others for the purpose of preventing fraud and reducing credit risk);
+Provide personal information to buyers (or potential buyers) of our business or assets;
+Any party to whom we reasonably believe that disclosure of personal information may be required by a court or other competent authority, and disclosure of personal information may be required by a court or authority.
+Except as otherwise provided in this policy, we will not provide your personal information to third parties.
 
-F. 国际数据迁移
+F. International Data Migration
 
-我们收集的信息可能会在我们运营的任何国家/地区之间进行存储、处理和迁移，以便我们能够根据本政策使用这些信息。
-我们收集的信息可能会被迁移到以下国家/地区，这些国家/地区的数据保护法律与欧洲经济区现行的法律不同：美国、俄罗斯、日本、中国和印度。
-您在我们的网站上发布的信息或用于发布而提交的个人信息可能会通过互联网在全球范围内可访问。我们不能保证阻止他人使用或滥用此类信息。
-您明确同意本节F中所述的个人信息迁移。
+The information we collect may be stored, processed and moved between any countries in which we operate so that we can use it in accordance with this policy.
+The information we collect may be transferred to the following countries, which have different data protection laws than those in force in the European Economic Area: United States, Russia, Japan, China and India.
+The information you post on our website or the personal information you submit for publication may be globally accessible via the Internet. We cannot guarantee that such information will be prevented from being used or misused by others.
+You expressly consent to the transfer of personal information described in this Section F.
 
-G. 保留个人信息
+G. Retention of Personal Information
 
-G节列出了我们的数据保留政策和程序，旨在用于确保我们遵守有关保留和删除个人信息的法律义务。
-我们出于任何目的或用途而处理的个人信息的保存时间不得超过为此目的或用途所需的必要时间。
-在不影响G-2条款的前提下，我们通常会在以下日期/时间删除属于以下类别的个人数据：
-个人数据类型将于{日期/时间}和
-{附加日期/时间}删除。
-在本G节的另行规定下，我们仍将保留以下包含个人数据的文件（包括电子文件：
-在法律要求的范围内；
-如果我们认为这些文件可能与任何正在进行的或潜在的法律程序有关；
-为了获得、行使或保护我们的合法权利（包括为防止欺诈和降低信用风险而向他人提供信息。
+Section G sets out our data retention policies and procedures, which are designed to ensure that we comply with our legal obligations regarding the retention and deletion of personal information.
+Personal information that we process for any purpose or use shall not be kept longer than is necessary for that purpose or use.
+Without prejudice to Clause G-2, we generally delete personal data falling into the following categories on the following dates/times:
+Personal data types will be updated on {date/time} and
+{additional date/time} removed.
+Subject to this Section G, we will still retain the following files containing personal data (including electronic files:
+to the extent required by law;
+if we believe that these documents may be relevant to any ongoing or potential legal proceedings;
+To obtain, exercise or protect our legal rights, including to provide information to others for fraud prevention and credit risk reduction.
 
-H. 个人信息的安全性
+H. Security of Personal Information
 
-我们将采取合理的技术和有组织的预防措施，以防止个人信息丢失、被滥用或被更改。
-我们会将您提供的所有个人信息存储在我们的安全（受密码和防火墙保护）服务器上。
-通过我们的网站进行的所有电子金融交易都将受到加密技术的保护。
-您了解并认同互联网上的信息传输本质上是不安全的，我们不能保证互联网上发送的数据的安全性。
-您有责任对用于访问我们网站的密码保密；我们不会要求您提供密码（您在登录网站时除外。
+We will take reasonable technical and organized precautions to prevent personal information from being lost, misused or altered.
+We will store all personal information you provide on our secure (password and firewall protected) servers.
+All electronic financial transactions conducted through our website will be protected by encryption technology.
+You understand and agree that the transmission of information over the Internet is inherently insecure and we cannot guarantee the security of data sent over the Internet.
+It is your responsibility to keep the password you use to access our website confidential; we will not ask for your password (except when you log in to the website).
 
-I. 修订
+I. Amendments
 
-我们可能会不时通过在我们的网站上发布新版本来更新此政策。您应该不时查看此页面，以确保您了解本政策的任何更改。我们可能会通过电子邮件或通过我们网站上的私人消息传输系统通知您有关此政策的更改。
+We may update this policy from time to time by posting a new version on our website. You should check this page from time to time to ensure you are aware of any changes to this policy. We may notify you of changes to this policy by email or through the private messaging system on our website.
 
-J. 您的权利
+J. Your rights
 
-您可以要求我们向您提供我们掌握的有关您的任何个人信息；提供此类信息应满足以下条件：
+You can ask us to provide you with any personal information we hold about you; providing such information is subject to the following conditions:
 
-费用支付{如果相关，请填写}；
-提供有效的身份证明文件（{请根据用途调整这段文字，我们通常会接受由公证人证明的护照复印件以及显示当前住址的水电费帐单原件}。
-在法律允许的范围内，我们可能会保留您要求的个人信息。
+Fee Payment {fill in if relevant};
+Provide valid identification documents ({Please adapt this text to your purpose, we will usually accept a copy of your passport certified by a notary public and an original utility bill showing your current address}.
+To the extent permitted by law, we may retain the personal information you request.
 
-您可以随时要求我们不要将您的个人信息用于营销。
+You can ask us not to use your personal information for marketing at any time.
 
-在实际情况中，您通常会事先明确同意我们将您的个人信息用于营销用途，或者我们会为您提供取消将个人信息用于营销用途的选项。
+In practice, you will usually give us your prior express consent to use your personal information for marketing purposes, or we will provide you with the option to opt out of the use of your personal information for marketing purposes.
 
-K. 第三方网站
+K. Third Party Websites
 
-我们的网站包含第三方网站的超链接和详细信息。我们无法控制第三方的隐私政策和规则，并且不对此承担任何责任。
+Our website contains hyperlinks and details to third party websites. We have no control over, and are not responsible for, the privacy policies and rules of third parties.
 
-L. 更新信息
+L. Update information
 
-如果我们持有的有关您的个人信息需要更正或更新，请告知我们。
+Please let us know if the personal information we hold about you needs to be corrected or updated.
 
 M. Cookies
 
-我们的网站使用cookie。Cookie是一个包含标识符（字母和数字的字符串）的文件，该文件由网络服务器发送到网络浏览器并由浏览器存储。浏览器每次从服务器请求页面时，该标识符就会发送回服务器。Cookies可能是“永久”Cookie或“会话”Cookie：永久Cookie将由网络浏览器存储，并且在其设置的有效期限内一直有效，除非用户在有效期限之前删除。对于会话Cookie，当关闭网络浏览器时，会话cookie将在用户会话结束时失效。Cookies通常不包含任何可以识别用户身份的信息，但是我们存储的有关您的个人信息可能会链接到存储在cookie中或从cookie获取的信息。{选择准确的词句，说明我们在我们的网站上仅使用会话cookie/仅使用永久cookie，或者同时使用会话和永久cookie。}
+Our website uses cookies. A cookie is a file containing an identifier (a string of letters and numbers) that is sent to a web browser by a web server and stored by the browser. This identifier is sent back to the server every time the browser requests a page from the server. Cookies may be "permanent" cookies or "session" cookies: persistent cookies will be stored by the web browser and will remain in effect for the period of validity set by them, unless deleted by the user before the expiration date. For session cookies, when the web browser is closed, the session cookie expires at the end of the user's session. Cookies generally do not contain any information that can identify a user, however the personal information we store about you may be linked to information stored in or obtained from cookies. {Choose the exact words that we use on our website only session cookies/persistent cookies only, or both session and persistent cookies. }
 
-我们在网站上使用的cookie的名称及其用途如下：
-当用户处于这些情况时{包括访问网站时/在用户浏览网站时追踪用户/在网站上使用购物车时/改善网站的可用性/分析网站的使用情况/管理网站/防止欺诈并提高网站的安全性/为用户个性化网站/根据用户兴趣精准投放广告}，我们会在我们的网站上使用Google Analytics和AdWords来识别计算机；
-绝大多数浏览器允许您拒绝或接受cookie，例如：
-在Internet Explorer（版本10）中，您可以通过cookie设置来阻止cookie，方法是点击“工具”->“ Internet选项”->“隐私”，然后点击“高级”；
-在Firefox（版本24)）中，您可以通过点击“工具”->“选项”->“隐私”，从下拉菜单中选择“自定义设置历史记录”，然后取消选中“从站点接受cookie”来阻止所有cookie；
-在Chrome浏览器（版本29）中，您可以访问“自定义和控制”菜单，然后依次点击“设置”，“显示高级设置”和“内容设置”，然后在“Cookies”标签页下选择“阻止网站设置任何数据”，以阻止所有Cookie ”。
-阻止全部cookie将对许多网站的可用性产生负面影响。如果您阻止Cookie，则将无法使用我们网站上的全部功能。
+The names of the cookies we use on our website and their purposes are as follows:
+When the user is in these situations {including when visiting the website/tracking the user while the user is browsing the website/while using the shopping cart on the website/improving the usability of the website/analyzing the usage of the website/administering the website/preventing fraud and improving the security of the website /personalizing the website for users/targeting advertising based on user interests}, we use Google Analytics and AdWords on our website to identify computers;
+The vast majority of browsers allow you to reject or accept cookies, such as:
+In Internet Explorer (version 10), you can block cookies through cookie settings by clicking on "Tools" -> "Internet Options" -> "Privacy", then "Advanced";
+In Firefox (version 24), you can do this by clicking Tools->Options->Privacy, selecting "Customize Settings History" from the drop-down menu, and unchecking "Accept cookies from sites" block all cookies;
+In the Chrome browser (version 29), you can access the "Customize and Control" menu, then click "Settings", "Show advanced settings", then "Content settings", then under the "Cookies" tab select "Block" The website sets any data" to block all cookies".
+Blocking all cookies will negatively affect the usability of many websites. If you block cookies, you will not be able to use the full functionality of our website.
 
-您可以删除已存储在计算机上的cookie，例如：
-在Internet Explorer（版本10)）中，您必须手动删除cookie文件（可以在http://support.microsoft.com/kb/278835 上找到操作说明）；
-在Firefox（版本24）中，您可以通过以下方式删除Cookie：点击“工具”->“选项”和“隐私”，然后选择“自定义设置历史记录”，点击“显示Cookie”，然后点击“删除所有Cookie”；
-在Chrome浏览器（版本29）中，您可以通过以下方式删除所有Cookie：访问“自定义和控制”菜单，然后依次点击“设置”->“显示高级设置”和“清除浏览数据”，然后选择“删除Cookie和其他网站”和插件数据”，然后点击“清除浏览数据”。
-删除cookie将对许多网站的可用性产生负面影响。
+You can delete cookies already stored on your computer, such as:
+In Internet Explorer (version 10)) you have to delete the cookie file manually (the instructions can be found at http://support.microsoft.com/kb/278835);
+In Firefox (version 24), you can delete cookies by clicking "Tools" -> "Options" and "Privacy", then selecting "Custom Settings History", clicking "Show Cookies", then clicking "Delete" All Cookies”;
+In Chrome (version 29), you can delete all cookies by visiting the Customize and Control menu, then clicking Settings -> Show advanced settings and Clear browsing data, then selecting "Delete cookies and other website and plug-in data" and then click "Clear browsing data".
+Deleting cookies will negatively affect the usability of many websites.
